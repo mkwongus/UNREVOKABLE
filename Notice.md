@@ -1,6 +1,6 @@
 **IMPORTANT NOTICE**
 
-UNREVOKABLE is authored and maintained by Rohan Kapri as a deliberate, long-horizon technical record. This repository exists as an explicit declaration of authorship, provenance, and technical posture. It is not published for instructional purposes, onboarding, accessibility, or community growth. It is published as record.
+UNREVOKABLE is authored and maintained by **Rohan Kapri** as a deliberate, long-horizon technical record. This repository exists as an explicit declaration of authorship, provenance, and technical posture. It is not published for instructional purposes, onboarding, accessibility, or community growth. It is published as record.
 
 All contents of this repository, including but not limited to source code, analytical material, documentation, structural models, and associated artifacts, are released exclusively under the GNU General Public License version 3 (GPLv3). The GPLv3 governs all permissions, obligations, and conditions applicable to any form of use, modification, or redistribution. This NOTICE does not summarize, reinterpret, negotiate, or soften those terms. Compliance is assumed as a prerequisite, not explained as a courtesy.
 
